@@ -4,7 +4,7 @@
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "npm run index.js": {
+    "run app": {
       "name": "run app",
       "command": "node index.js",
       "runAtStart": true
